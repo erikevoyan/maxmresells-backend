@@ -35,8 +35,8 @@ app.post("/create-checkout-session", async (req, res) => {
       payment_method_types: ["card"],
       mode: "payment",
       line_items,
-      success_url: "http://127.0.0.1:5500/success.html",
-      cancel_url: "http://127.0.0.1:5500/cancel.html",
+    success_url: "https://maxmresells.netlify.app/success.html",
+    cancel_url: "https://maxmresells.netlify.app/cancel.html",
     });
 
     res.json({ url: session.url });
