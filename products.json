@@ -1,0 +1,23 @@
+{
+  "jacket": {
+    "title": "Manchester United Jacket",
+    "price": 68,
+    "originalPrice": 150,
+    "image": "images/jacket.jpg",
+    "description": "Authentic vintage Manchester United jacket in excellent condition."
+  },
+  "jeans": {
+    "title": "Vintage Jeans",
+    "price": 45,
+    "originalPrice": 220,
+    "image": "images/Jeans.jpg",
+    "description": "Classic 90s high-rise denim with premium vintage wash."
+  },
+  "shoes": {
+    "title": "Shoes",
+    "price": 95,
+    "originalPrice": 350,
+    "image": "images/Shoes.jpg",
+    "description": "Premium second-hand designer shoes in near-perfect condition."
+  }
+}
